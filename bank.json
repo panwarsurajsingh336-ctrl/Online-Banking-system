@@ -1,0 +1,351 @@
+{
+  "account": [
+    {
+      "acno": "CB101",
+      "pin": 1212,
+      "name": "Sumit",
+      "fname": "Manoj",
+      "email": "suraj@gmail.com",
+      "phone": "897877885",
+      "gender": "male",
+      "country": "India",
+      "state": "UK",
+      "city": "Dehradun",
+      "amount": 100023,
+      "id": "1JvbhZ6Le4c"
+    },
+    {
+      "acno": "CB102",
+      "pin": "5678",
+      "name": "Anil",
+      "fname": "Mr",
+      "email": "abc@gmail.com",
+      "phone": "394939",
+      "gender": "male",
+      "country": "India",
+      "state": "UK",
+      "city": "Dehradun",
+      "amount": 19445,
+      "id": "j-1O8hNrGoM"
+    },
+    {
+      "acno": "CB103",
+      "pin": "7890",
+      "name": "Laxmi",
+      "fname": "Bhag",
+      "email": "lxi123@gmail.com",
+      "phone": "6787867896",
+      "gender": "female",
+      "country": "India",
+      "state": "UK",
+      "city": "Khalsi",
+      "amount": 323131,
+      "id": "YZ3GdyhZ_Nc"
+    },
+    {
+      "acno": "CB104",
+      "pin": "1212",
+      "name": "Shera",
+      "fname": "Bagha",
+      "email": "bb123@gmail.com",
+      "phone": "1414172214",
+      "gender": "Shemale",
+      "country": "Pak",
+      "state": "Sindh",
+      "city": "karachi",
+      "amount": 996,
+      "id": "mspiGAPSrMA"
+    },
+    {
+      "acno": "CB105",
+      "pin": "1212",
+      "name": "Suraj ",
+      "fname": "Raj",
+      "email": "suraj@123mail.com",
+      "phone": "7900405730",
+      "gender": "male",
+      "country": "India",
+      "state": "Uttrakhand ",
+      "city": "Dehradun",
+      "amount": "2000",
+      "id": "fFAPcNrtV4M"
+    },
+    {
+      "acno": "CB106",
+      "pin": 4321,
+      "name": "Surmit Singh",
+      "fname": "Gajendra Singh",
+      "email": "panwarsurajsingh336@gmail.com",
+      "phone": "7900405908",
+      "gender": "Male",
+      "country": "India",
+      "state": "Uttarakhand",
+      "city": "Dehradun",
+      "amount": 18646,
+      "id": "hNBMamDXnp8"
+    },
+    {
+      "acno": "CB107",
+      "pin": 1234,
+      "name": "Anil",
+      "fname": "Bjiu",
+      "email": "aniju123@gmail.com",
+      "phone": "9876632878",
+      "gender": "male",
+      "country": "India",
+      "state": "Uttrakhand",
+      "city": "Uttarkashi",
+      "amount": 10000,
+      "id": "DBI71PPjGKY"
+    }
+  ],
+  "mytrans": [
+    {
+      "acno": "CB101",
+      "amount": 1000,
+      "date": "2026-04-01",
+      "des": "Withdraw",
+      "id": "kJcOAlyFmkc"
+    },
+    {
+      "acno": "CB101",
+      "amount": 5000,
+      "date": "2026-04-01",
+      "des": "Deposit",
+      "id": "0fDs03zj3y4"
+    },
+    {
+      "acno": "CB101",
+      "amount": 3000,
+      "date": "2026-04-01",
+      "des": "Transfer",
+      "id": "1jJsXXqGcwI"
+    },
+    {
+      "acno": "CB102",
+      "amount": 3000,
+      "date": "2026-04-01",
+      "des": "Receive",
+      "id": "5CthrGkQ00Q"
+    },
+    {
+      "acno": "CB101",
+      "amount": 100,
+      "date": "2026-04-02",
+      "des": "Withdraw",
+      "id": "7S8ks9URrPY"
+    },
+    {
+      "acno": "CB101",
+      "amount": 122,
+      "date": "2026-04-02",
+      "des": "Transfer",
+      "id": "oApILxRktsw"
+    },
+    {
+      "acno": "CB102",
+      "amount": 122,
+      "date": "2026-04-02",
+      "des": "Receive",
+      "id": "lfN8GMDKnX4"
+    },
+    {
+      "amount": "78787",
+      "date": "4/3/2026",
+      "des": "deposit",
+      "id": "2pVWrl0MtNU"
+    },
+    {
+      "amount": "1000",
+      "date": "4/3/2026",
+      "des": "deposit",
+      "id": "yOWxnOaKs5w"
+    },
+    {
+      "acno": "CB101",
+      "amount": 12,
+      "date": "4/3/2026",
+      "des": "withdraw",
+      "id": "wqY9MWdJxVs"
+    },
+    {
+      "acno": "CB101",
+      "amount": 122,
+      "date": "4/3/2026",
+      "des": "withdraw",
+      "id": "KzxsHwdAZcc"
+    },
+    {
+      "acno": "CB101",
+      "amount": 1200,
+      "date": "4/3/2026",
+      "des": "withdraw",
+      "id": "ILGpbWwfSRY"
+    },
+    {
+      "acno": "CB101",
+      "amount": 1200,
+      "date": "4/3/2026",
+      "des": "withdraw",
+      "id": "wJbVbzPDPXM"
+    },
+    {
+      "acno": "CB101",
+      "amount": 2000,
+      "date": "4/3/2026",
+      "des": "withdraw",
+      "id": "eu_qr2HMMWs"
+    },
+    {
+      "acno": "CB101",
+      "amount": 2000,
+      "date": "4/3/2026",
+      "des": "withdraw",
+      "id": "IGH4c5HgBYE"
+    },
+    {
+      "acno": "CB101",
+      "amount": 2000,
+      "date": "4/3/2026",
+      "des": "withdraw",
+      "id": "HffcWlHmxH8"
+    },
+    {
+      "amount": "122",
+      "date": "4/5/2026",
+      "des": "deposit",
+      "id": "Pd7onEbwJCI"
+    },
+    {
+      "amount": "122",
+      "date": "4/5/2026",
+      "des": "deposit",
+      "id": "-TDa4SP9k4A"
+    },
+    {
+      "acno": "CB104",
+      "amount": 3,
+      "date": "4/5/2026",
+      "des": "withdraw",
+      "id": "Svi5U8Djfiw"
+    },
+    {
+      "amount": "1010",
+      "date": "4/6/2026",
+      "des": "deposit",
+      "id": "cdsNual3Yu8"
+    },
+    {
+      "acno": "CB101",
+      "amount": 1000,
+      "date": "4/6/2026",
+      "des": "withdraw",
+      "id": "VXRz2GOClO4"
+    },
+    {
+      "amount": "122",
+      "date": "5/4/2026",
+      "des": "deposit",
+      "id": "875v3OwYHDc"
+    },
+    {
+      "acno": "CB101",
+      "amount": 21,
+      "date": "5/4/2026",
+      "des": "withdraw",
+      "id": "WVipMNWUj40"
+    },
+    {
+      "acno": "CB101",
+      "amount": 21,
+      "date": "5/4/2026",
+      "des": "withdraw",
+      "id": "aOo1x0DkMx4"
+    },
+    {
+      "acno": "CB106",
+      "amount": 1000,
+      "date": "5/21/2026",
+      "des": "deposit",
+      "id": "-GbnHPt31Q8"
+    },
+    {
+      "acno": "CB107",
+      "amount": 200,
+      "date": "5/21/2026",
+      "des": "withdraw",
+      "id": "_tdzWV5QNyk"
+    },
+    {
+      "acno": "CB107",
+      "amount": 200,
+      "date": "5/21/2026",
+      "des": "deposit",
+      "id": "O-2Yiy89pVw"
+    },
+    {
+      "acno": "CB107",
+      "amount": 10000,
+      "date": "5/21/2026",
+      "des": "transfer",
+      "id": "ogF4dfB1f4g"
+    },
+    {
+      "acno": "CB101",
+      "amount": 10000,
+      "date": "5/21/2026",
+      "des": "receive",
+      "id": "J401rF0PhbU"
+    },
+    {
+      "acno": "CB106",
+      "amount": 20000,
+      "date": "5/21/2026",
+      "des": "deposit",
+      "id": "ohi1oKngJzs"
+    },
+    {
+      "acno": "CB106",
+      "amount": 12322,
+      "date": "5/21/2026",
+      "des": "withdraw",
+      "id": "szKgDPNyI6E"
+    },
+    {
+      "acno": "CB106",
+      "amount": 12,
+      "date": "5/21/2026",
+      "des": "withdraw",
+      "id": "XrveIsfRA_o"
+    },
+    {
+      "acno": "CB106",
+      "amount": 2020,
+      "date": "5/21/2026",
+      "des": "transfer",
+      "id": "YVYHY_uJN60"
+    },
+    {
+      "acno": "CB101",
+      "amount": 2020,
+      "date": "5/21/2026",
+      "des": "receive",
+      "id": "lupVH9Q505c"
+    },
+    {
+      "acno": "CB107",
+      "amount": 10000,
+      "date": "5/21/2026",
+      "des": "deposit",
+      "id": "N4llaiiIZ8I"
+    }
+  ],
+  "uinfo": [
+    {
+      "acno": "CB106",
+      "name": "Suraj Singh",
+      "id": "WTRDu0x0_CY"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
